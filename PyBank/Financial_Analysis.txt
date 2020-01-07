@@ -1,0 +1,1 @@
+Financial Analysis/nTotal Months: 86/nTotal: ${sum(total_profit)}/nAverage Change: {round(sum(monthly_profit)/len(monthly_profit),2)}/nGreatest Increase in Profits: {total_months[max_increase_month]} (${(str(max_increase_value))})/nGreatest Decrease in Profits: Sep-13 ($-2196167)
